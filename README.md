@@ -12,4 +12,5 @@ O repositório está dividido em entregas, cada uma delas contendo um conjunto d
 - Hitalo Nascimento;
 - Ingrid Freire;
 - João Lucas;
+- Maíra Cabral;
 - Rodrigo Amaral.

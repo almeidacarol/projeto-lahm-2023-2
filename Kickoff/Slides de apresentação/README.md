@@ -1,1 +1,1 @@
-# Aqui você poderá ver os slides do kickoff
+# Aqui estão os slides do kickoff
